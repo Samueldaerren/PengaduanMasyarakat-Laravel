@@ -121,7 +121,7 @@
     <div class="row g-0 hero-section">
       <div class="col-12 col-md-6 d-flex flex-column justify-content-center align-items-start text-white p-5">
         <h1 class="display-4 fw-bold hero-title">Pengaduan Masyarakat</h1>
-        <p class="lead hero-text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eligendi perspiciatis aut pariatur doloremque laboriosam quis in praesentium at.</p>
+        <p class="lead hero-text">"Sampaikan keluhan dan aspirasi Anda dengan mudah. Kami siap mendengarkan dan menindaklanjuti setiap laporan dari masyarakat demi terciptanya lingkungan yang lebih baik dan transparan."</p>
         <a href="{{ route('login') }}" class="btn btn-lumut btn-lg">Bergabung!</a>
       </div>
       <div class="col-12 col-md-6 d-flex flex-column justify-content-center align-items-center text-center text-white p-5">
